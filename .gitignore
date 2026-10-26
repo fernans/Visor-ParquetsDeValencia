@@ -1,0 +1,7 @@
+# Paquete RAR de entrega duplicado del árbol completo
+pdv.rar
+
+# Basura de sistema
+Thumbs.db
+._*
+.DS_Store
